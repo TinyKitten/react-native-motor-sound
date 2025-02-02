@@ -1,0 +1,18 @@
+{
+  "name": "react-native-motor-sound-win32-x64-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "react-native-motor-sound.win32-x64-msvc.node",
+  "files": [
+    "react-native-motor-sound.win32-x64-msvc.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "react-native-motor-sound-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "react-native-motor-sound.linux-x64-gnu.node",
+  "files": [
+    "react-native-motor-sound.linux-x64-gnu.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "glibc"
+  ]
+}
